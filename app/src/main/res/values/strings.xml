@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Millionaire</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="startvalue">0</string>
+    <string name="wintext">YOU WIN!</string>
+    <string name="loosetext">YOU LOOOOOOSE :(</string>
+    <string name="textview">TextView</string>
+
+</resources>
